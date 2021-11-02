@@ -11,5 +11,3 @@ Follow the link to learn more about me! :point_down:
 - :bar_chart: Data analysis
 - :robot: Robotic / Automatic control
 - :closed_book: Data mining
-
-[![Cindy's github stats](https://github-readme-stats.vercel.app/api?username=cde566&show_icons=true&theme=dark)](https://github.com/cde566/github-readme-stats)
